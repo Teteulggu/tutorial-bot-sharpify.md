@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://imgur.com/a/ABEzdvz" alt="Sharpify Logo" width="160"/>
+<img src="https://imgur.com/a/ABEzdvz#knSdOaw" alt="Sharpify Logo" width="160"/>
 
 # 🤖 Sharpify Discord Bot
 
